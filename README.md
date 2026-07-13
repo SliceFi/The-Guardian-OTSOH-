@@ -1,29 +1,11 @@
-# The Guardian OTSOH Website
+# The Guardian OTSOH
 
-A ready-to-publish static website for GitHub Pages.
+Upload `index.html` to the root of your GitHub repository.
 
-## Fast GitHub setup
+Official contract:
 
-1. Create a new GitHub repository, for example: `the-guardian-otsoh`.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`, then click **Save**.
-6. GitHub will show the public website URL after deployment.
+`GQjHJtjPNEvDNXu5D738TZt5npK6AfSULW2Ajt3hpump`
 
-## Important edits before publishing
+GitHub Pages URL:
 
-In `index.html`, replace:
-
-- `ADD NETWORK`
-- `ADD CONTRACT ADDRESS`
-- Every `href="#"` social link with your real X, Telegram, and Dexscreener URLs
-- The roadmap or project description where needed
-
-## Files
-
-- `index.html` — page structure and all website text
-- `styles.css` — design, mobile layout, and animations
-- `script.js` — mobile menu and copy-address button
-
-No build tools are needed.
+`https://slicefi.github.io/The-Guardian-OTSOH-/`
